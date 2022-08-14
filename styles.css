@@ -52,3 +52,15 @@ table {
 .table {
     text-align: center;
 }
+@media (max-width: 700px){
+    .cat
+   {display: block;}
+}
+.start {
+    display: flex;
+    padding: 20px;
+}
+.pravo {
+    margin-top: 20px;
+    padding: 20px 50px;
+}
